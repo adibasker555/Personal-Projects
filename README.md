@@ -1,5 +1,4 @@
 # PersonalProjects
-Personal Projects
 
 Personal Projects Descriptions:
 
