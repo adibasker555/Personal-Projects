@@ -2,7 +2,7 @@
 
 Personal Projects Descriptions:
 
-
+*MIGHT TAKE 2-3 RELOAD ATTEMPTS TO RENDER CERTAIN JUPYTER NOTEBOOK FILES*
 
 1) 'MarchMadness' folder: analysis of Kaggle's college basketball dataset for the March Madness tournament. Using the data provided, I calculated a list of relevant features that would be important in deciding which team wins a given matchup, such as points per game throughout the season, assists, rebounds, steals, overall winning record, etc. I then trained different supervised ML algorithms such as Logistic Regression and Random Forest Classifiers to predict March Madness outcomes, which had roughly 70-75% accuracy. I gauged relative performance using validation accuracy, type 1 error rate, and other values in the confusion matrix. To see how college basketball changes across years, I trained the model on different years of data and tested on 2018 data, to compare the the relative accuracy of the model.
 
